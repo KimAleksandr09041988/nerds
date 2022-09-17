@@ -1,0 +1,6 @@
+.header__links {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  margin: 0 0 78px 0;
+}

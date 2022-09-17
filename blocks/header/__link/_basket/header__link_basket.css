@@ -1,0 +1,8 @@
+.header__link_basket {
+  margin: 0 0 9px 0;
+}
+
+.header__link_basket::before {
+  content: url('../../../../img/cart-icon.svg');
+  margin: 0 25px 0 0;
+}
