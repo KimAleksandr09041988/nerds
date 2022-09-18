@@ -1,0 +1,9 @@
+.about__item {
+  margin: 0 0 40px 0;
+  padding: 0 0 0 32px;
+  background-image: url('../../../img/list-style-type.png');
+  background-repeat: no-repeat;
+  background-color: transparent;
+  background-size: 25px 2px;
+  background-position: center left;
+}

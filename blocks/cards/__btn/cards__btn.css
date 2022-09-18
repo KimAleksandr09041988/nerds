@@ -1,13 +1,13 @@
-.header__btn {
+.cards__btn {
   cursor: pointer;
+  margin: 0 0 80px 0;
+  padding: 17px 40px 15px 40px;
   border: none;
   border-radius: 3px;
-  margin: 0 0 80px 0;
-  padding: 17px 54px 15px 54px;
-  background-color: #FB565A;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 18px;
-  color: #FFFFFF;
+  text-transform: uppercase;
+  color: #fff;
 }

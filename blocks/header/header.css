@@ -1,5 +1,8 @@
 .header {
-  padding: 49px 0 0 0;
+  padding: 49px 140px 0 140px;
   background-color: #eee;
-
+  background-image: url('../../../img/nerds-index-slide1_1.png');
+  background-repeat: no-repeat;
+  background-size: 760px 431px;
+  background-position: bottom right 140px;
 }
