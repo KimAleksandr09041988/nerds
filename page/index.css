@@ -51,3 +51,9 @@
 @import url('../blocks/about/__heading-item/about__heading-item.css');
 @import url('../blocks/about/__description-info/about__description-info.css');
 @import url('../blocks/about/__item-info/about__item-info.css');
+@import url('../blocks/about/__heading-position/about__heading-position.css');
+
+/* customers */
+@import url('../blocks/customers/customers.css');
+@import url('../blocks/customers/__list/customers__list.css');
+@import url('../blocks/customers/__separator/customers__separator.css');

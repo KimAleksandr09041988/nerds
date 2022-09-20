@@ -1,0 +1,5 @@
+.customers__separator {
+  display: inline-block;
+  height: 52px;
+  border-right: 2px solid #eee;
+}
