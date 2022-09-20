@@ -57,3 +57,20 @@
 @import url('../blocks/customers/customers.css');
 @import url('../blocks/customers/__list/customers__list.css');
 @import url('../blocks/customers/__separator/customers__separator.css');
+
+/* contacts */
+@import url('../blocks/contacts/contacts.css');
+@import url('../blocks/map/map.css');
+@import url('../blocks/contacts/__info/contacts__info.css');
+@import url('../blocks/contacts/__heading/contacts__heading.css');
+@import url('../blocks/contacts/__description/contacts__description.css');
+@import url('../blocks/contacts/__tel-link/contacts__tel-link.css');
+@import url('../blocks/contacts/__btn/contacts__btn.css');
+
+/* footer */
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__socials/footer__socials.css');
+@import url('../blocks/footer/__list/footer__list.css');
+@import url('../blocks/footer/__link/footer__link.css');
+@import url('../blocks/footer/__heading/footer__heading.css');
+@import url('../blocks/footer/__description/footer__description.css');
