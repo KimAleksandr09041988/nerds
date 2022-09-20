@@ -18,7 +18,7 @@ function init() {
   }, {
     iconLayout: 'default#image',
     // Путь до нашей картинки
-    iconImageHref: '../img/map-marker-1.png',
+    iconImageHref: './img/map-marker-1.png',
     // Размеры иконки
     iconImageSize: [231, 190],
     // Смещение верхнего угла относительно основания иконки
