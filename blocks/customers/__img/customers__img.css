@@ -1,0 +1,12 @@
+.customers__img {
+  opacity: .2;
+  transition: opacity .3s ease-in-out;
+}
+
+.customers__img:hover {
+  opacity: 1;
+}
+
+.customers__img:active {
+  opacity: .1;
+}

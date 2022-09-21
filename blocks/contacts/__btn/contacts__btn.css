@@ -9,4 +9,14 @@
   font-size: 16px;
   line-height: 18px;
   color: #fff;
+  transition: background-color .3s ease-in-out, color .3s ease-in-out;
+}
+
+.contacts__btn:hover {
+  background-color: #E74246;
+}
+
+.contacts__btn:active {
+  background-color: #D7373B;
+  color: rgba(255, 255, 255, .3);
 }

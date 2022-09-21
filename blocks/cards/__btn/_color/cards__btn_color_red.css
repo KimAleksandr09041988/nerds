@@ -1,3 +1,11 @@
 .cards__btn_color_red {
   background-color: #FB565A;
 }
+
+.cards__btn_color_red:hover {
+  background-color: #E74246;
+}
+
+.cards__btn_color_red:focus {
+  background-color: #D7373B;
+}

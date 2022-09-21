@@ -1,4 +1,14 @@
 .logo {
   width: 160px;
   height: 65px;
+  opacity: 1;
+  transition: opacity .3s ease-in-out;
+}
+
+.logo:hover {
+  opacity: .7;
+}
+
+.logo:active {
+  opacity: .3;
 }

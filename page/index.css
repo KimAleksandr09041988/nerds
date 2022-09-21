@@ -57,6 +57,7 @@
 @import url('../blocks/customers/customers.css');
 @import url('../blocks/customers/__list/customers__list.css');
 @import url('../blocks/customers/__separator/customers__separator.css');
+@import url('../blocks/customers/__img/customers__img.css');
 
 /* contacts */
 @import url('../blocks/contacts/contacts.css');
@@ -72,5 +73,6 @@
 @import url('../blocks/footer/__socials/footer__socials.css');
 @import url('../blocks/footer/__list/footer__list.css');
 @import url('../blocks/footer/__link/footer__link.css');
+@import url('../blocks/footer/__img/footer__img.css');
 @import url('../blocks/footer/__heading/footer__heading.css');
 @import url('../blocks/footer/__description/footer__description.css');

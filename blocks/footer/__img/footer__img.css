@@ -1,0 +1,8 @@
+ .footer__img {
+   opacity: 1;
+   transition: opacity .3s ease-in-out;
+ }
+
+ .footer__link:active .footer__img {
+   opacity: .3;
+ }

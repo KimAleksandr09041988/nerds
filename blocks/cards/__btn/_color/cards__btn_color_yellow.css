@@ -1,4 +1,11 @@
 .cards__btn_color_yellow {
   background-color: #EFC849;
-  ;
+}
+
+.cards__btn_color_yellow:hover {
+  background-color: #EAB534;
+}
+
+.cards__btn_color_yellow:active {
+  background-color: #E5A722;
 }
