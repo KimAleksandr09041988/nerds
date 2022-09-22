@@ -1,4 +1,5 @@
 .modal__btn-form {
+  cursor: pointer;
   width: 259px;
   padding: 17px 83px 15px;
   border: none;

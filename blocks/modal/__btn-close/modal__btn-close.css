@@ -1,4 +1,5 @@
 .modal__btn-close {
+  cursor: pointer;
   position: absolute;
   top: 78px;
   right: 90px;
