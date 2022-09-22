@@ -1,0 +1,23 @@
+.modal__btn-close {
+  position: absolute;
+  top: 78px;
+  right: 90px;
+  opacity: .5;
+  width: 30px;
+  height: 30px;
+  border: none;
+  background-image: url('../../../img/btn-close.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 21px 21px;
+  background-color: transparent;
+  transition: opacity .3s ease-in-out;
+}
+
+.modal__btn-close:hover {
+  opacity: 1;
+}
+
+.modal__btn-close:active {
+  opacity: .2;
+}

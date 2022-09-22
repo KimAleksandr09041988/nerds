@@ -1,0 +1,15 @@
+.modal {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  max-width: 960px;
+  width: 960px;
+  min-height: 590px;
+  box-sizing: border-box;
+  height: 590px;
+  padding: 63px 100px 0;
+  background-color: #fff;
+  box-shadow: 0 0 50px 0 rgba(0, 0, 0, .3);
+  transform: translate(-50%, -50%);
+}

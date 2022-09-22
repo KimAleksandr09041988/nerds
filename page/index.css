@@ -68,6 +68,20 @@
 @import url('../blocks/contacts/__tel-link/contacts__tel-link.css');
 @import url('../blocks/contacts/__btn/contacts__btn.css');
 
+/* modale */
+@import url('../blocks/modal/modal.css');
+@import url('../blocks/modal/_active/modal_active.css');
+@import url('../blocks/modal/__btn-close/modal__btn-close.css');
+@import url('../blocks/modal/__header/modal__header.css');
+@import url('../blocks/modal/__info/modal__info.css');
+@import url('../blocks/modal/__info-additional/modal__info-additional.css');
+@import url('../blocks/modal/__input-wrap/modal__input-wrap.css');
+@import url('../blocks/modal/__label/modal__label.css');
+@import url('../blocks/modal/__input/modal__input.css');
+@import url('../blocks/modal/__text/modal__text.css');
+@import url('../blocks/modal/__btn-form/modal__btn-form.css');
+
+
 /* footer */
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__socials/footer__socials.css');

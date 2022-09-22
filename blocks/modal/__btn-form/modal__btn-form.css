@@ -1,0 +1,22 @@
+.modal__btn-form {
+  width: 259px;
+  padding: 17px 83px 15px;
+  border: none;
+  border-radius: 3px;
+  background-color: #FB565A;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1;
+  color: rgba(255, 255, 255, 1);
+  transition: background-color .3s ease-in-out, color .3s ease-in-out;
+}
+
+.modal__btn-form:hover {
+  background-color: #E74246;
+}
+
+.modal__btn-form:active {
+  background-color: #D7373B;
+  color: rgba(255, 255, 255, .3);
+}
