@@ -144,27 +144,29 @@
         </div>
         <!-- pop-up -->
         <div class="modal">
-          <button class="modal__btn-close"></button>
-          <h2 class="modal__header">Напишите нам</h2>
-          <form class="modal__form" action="mailto:k1mal3xandre@yandex.ru" enctype="text/plain" method="get">
-            <fieldset class="modal__info">
-              <div class="modal__input-wrap">
-                <label class="modal__label" for="name">Ваше имя:</label>
-                <input class="modal__input" type="text" name="name" id="name" minlength="3" placeholder="Имя Фамилия"
-                  required>
-              </div>
-              <div class="modal__input-wrap">
-                <label class="modal__label" for="email">Ваш email:</label>
-                <input class="modal__input" type="email" name="email" id="email" placeholder="email@example.com"
-                  required>
-              </div>
-            </fieldset>
-            <fieldset class="modal__info-additional">
-              <label class="modal__label" for="text">Текст письма:</label>
-              <textarea class="modal__text" name="text" id="text" placeholder="В свободной форме"></textarea>
-            </fieldset>
-            <input class="modal__btn-form" type="submit">
-          </form>
+          <div class="modal-wrap">
+            <button class="modal__btn-close"></button>
+            <h2 class="modal__header">Напишите нам</h2>
+            <form class="modal__form" action="mailto:k1mal3xandre@yandex.ru" enctype="text/plain" method="get">
+              <fieldset class="modal__info">
+                <div class="modal__input-wrap">
+                  <label class="modal__label" for="name">Ваше имя:</label>
+                  <input class="modal__input" type="text" name="name" id="name" minlength="3" placeholder="Имя Фамилия"
+                    required>
+                </div>
+                <div class="modal__input-wrap">
+                  <label class="modal__label" for="email">Ваш email:</label>
+                  <input class="modal__input" type="email" name="email" id="email" placeholder="email@example.com"
+                    required>
+                </div>
+              </fieldset>
+              <fieldset class="modal__info-additional">
+                <label class="modal__label" for="text">Текст письма:</label>
+                <textarea class="modal__text" name="text" id="text" placeholder="В свободной форме"></textarea>
+              </fieldset>
+              <input class="modal__btn-form" type="submit">
+            </form>
+          </div>
         </div>
       </section>
     </main>

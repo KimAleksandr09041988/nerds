@@ -1,15 +1,11 @@
 .modal {
-  display: none;
+  opacity: 0;
+  z-index: -1;
   position: fixed;
-  top: 50%;
-  left: 50%;
-  max-width: 960px;
-  width: 960px;
-  min-height: 590px;
-  box-sizing: border-box;
-  height: 590px;
-  padding: 63px 100px 0;
-  background-color: #fff;
-  box-shadow: 0 0 50px 0 rgba(0, 0, 0, .3);
-  transform: translate(-50%, -50%);
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  transition: opacity .3s linear, z-index .3s linear;
 }

@@ -10,11 +10,11 @@ closeBtn.addEventListener("click", () => {
   modal.classList.remove("modal_active")
 });
 
-// modal.addEventListener("click", (e) => {
-//   if (e.target === e.currentTarget) {
-//     modal.classList.remove("modal_active");
-//   }
-//   modal.removeEventListener("click", () => {
-//     modal.classList.remove("modal_active");
-//   });
-// });
+modal.addEventListener("click", (e) => {
+  if (e.target === e.currentTarget) {
+    modal.classList.remove("modal_active");
+  }
+  modal.removeEventListener("click", () => {
+    modal.classList.remove("modal_active");
+  });
+});

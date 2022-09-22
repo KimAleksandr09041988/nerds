@@ -71,6 +71,7 @@
 /* modale */
 @import url('../blocks/modal/modal.css');
 @import url('../blocks/modal/_active/modal_active.css');
+@import url('../blocks/modal/__wrap/modal-wrap.css');
 @import url('../blocks/modal/__btn-close/modal__btn-close.css');
 @import url('../blocks/modal/__header/modal__header.css');
 @import url('../blocks/modal/__info/modal__info.css');
